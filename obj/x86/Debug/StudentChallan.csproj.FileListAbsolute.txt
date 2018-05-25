@@ -1,0 +1,14 @@
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\bin\Debug\StudentChallanDb.mdf
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\bin\Debug\StudentChallanDb_log.ldf
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\bin\Debug\StudentChallan.exe.config
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\bin\Debug\StudentChallan.exe
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\bin\Debug\StudentChallan.pdb
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.Form1.resources
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.exe
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.pdb
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.StaffRegister.resources
+c:\users\acer\documents\visual studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.StudentDetails.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.detailView.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\StudentChallan\obj\x86\Debug\StudentChallan.csprojResolveAssemblyReference.cache
